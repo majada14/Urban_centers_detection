@@ -10,7 +10,8 @@ It is possible to adapt the current implementation to other cities, changing the
 
   
 ## DATA EXTRACTION
-In the file data_extraction.ipynb is available the code to retrieve nodes from OpenStreetMap's API.  
+In the file data_extraction.ipynb is available the code to retrieve nodes from OpenStreetMap's API.
+Data for the city of Trento are already retrieved and can be found the trento_poi_dataset.json.  
 
   
 ## DATA ANALYSIS
