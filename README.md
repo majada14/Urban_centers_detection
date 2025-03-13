@@ -2,6 +2,8 @@
 The current project was developed for the Computational Social Science's course.  
 The objective is to detect urban centers inside cities using machine learning algorithms. More specifically, the DBSCAN and the OPTICS models, both clustering techniques, were implemented to identify clusters, and so urban centers, inside the city of Trento.  
 
+[View report PDF](https://www.researchgate.net/publication/378622891_Detecting_new_urban_centers_inside_cities)
+
 It is possible to adapt the current implementation to other cities, changing the following variables:
 * city_coordinates in the data_extraction.ipynb
 * suggested_radius in the data_extraction.ipynb
